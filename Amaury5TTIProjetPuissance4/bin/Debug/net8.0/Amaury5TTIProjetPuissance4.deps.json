@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Amaury5TTIProjetPuissance4/1.0.0": {
+        "runtime": {
+          "Amaury5TTIProjetPuissance4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Amaury5TTIProjetPuissance4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
