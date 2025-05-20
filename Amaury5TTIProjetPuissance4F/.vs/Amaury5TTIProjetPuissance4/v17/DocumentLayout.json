@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Amaury5TTIProjetPuissance4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E367836A-5F1D-40EA-B4C7-6A6854767095}|Amaury5TTIProjetPuissance4.csproj|e:\\amaury5ttiprojetpuissance4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E367836A-5F1D-40EA-B4C7-6A6854767095}|Amaury5TTIProjetPuissance4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E367836A-5F1D-40EA-B4C7-6A6854767095}|Amaury5TTIProjetPuissance4.csproj|e:\\amaury5ttiprojetpuissance4\\mesoutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E367836A-5F1D-40EA-B4C7-6A6854767095}|Amaury5TTIProjetPuissance4.csproj|solutionrelative:mesoutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mesOutils.cs",
+              "DocumentMoniker": "E:\\Amaury5TTIProjetPuissance4\\mesOutils.cs",
+              "RelativeDocumentMoniker": "mesOutils.cs",
+              "ToolTip": "E:\\Amaury5TTIProjetPuissance4\\mesOutils.cs",
+              "RelativeToolTip": "mesOutils.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:16:03.56Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Amaury5TTIProjetPuissance4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Amaury5TTIProjetPuissance4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T11:55:58.873Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
